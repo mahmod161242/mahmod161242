@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I'm enjoying playing Cricket, Badminton and Chess.
 - 📫 Reach me at: mdmahmodulhassan-2018926200@eee.du.ac.bd
 
-<a href=”https://www.linkedin.com/in/md-mahmodul-hassan/"><img align=”left” src=”https://raw.githubusercontent.com/mahmod161242/mahmod161242/main/images/linkedin.svg" alt=”Mahmod | LinkedIn” width=”21px”/></a>
 
