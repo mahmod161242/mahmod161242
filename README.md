@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying EEE at University of Dhaka.
 - 🌱 Course-works:
+  
        ► Optics and Modern Physics
        ► Semiconductor Theory
        ► Electromagnetic Theory
@@ -16,7 +17,8 @@ Here are some ideas to get you started:
        ► Semiconductor Technology
        ► VLSI
 
-- 🌱 Research Interests : 
+- 🌱 Research Interests :
+  
        ► Nanoscience and Technology
        ► Bio-sensing
        ► VLS
