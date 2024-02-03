@@ -6,20 +6,20 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying EEE at University of Dhaka.
 - 🌱 Course-works:
-       • Optics and Modern Physics
-       • Semiconductor Theory
-       • Electromagnetic Theory
-       • Electronic Devices
-       • Optoelectronics
-       • Material Science
-       • Nanoscience and Technology
-       • Semiconductor Technology
-       • VLSI
+       ► Optics and Modern Physics
+       ► Semiconductor Theory
+       ► Electromagnetic Theory
+       ► Electronic Devices
+       ► Optoelectronics
+       ► Material Science
+       ► Nanoscience and Technology
+       ► Semiconductor Technology
+       ► VLSI
 
 - 🌱 Research Interests : 
-       • Nanoscience and Technology
-       • Bio-sensing
-       • VLS
+       ► Nanoscience and Technology
+       ► Bio-sensing
+       ► VLS
   
 - 🌱 Technical Skills: 
 
