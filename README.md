@@ -25,11 +25,11 @@ Here are some ideas to get you started:
   
 - 🌱 Technical Skills: 
 
-      ► Programming Language : Python | MATLAB | Verilog HDL | C | HTML
-      ► Simulation Tools : Cadence Virtuoso | COMSOL Multiphysics | PSpice
-      ► Illustration Tools : AutoCAD | Adobe Photoshop
-      ► Data Analysis : Origin | Excel
-      ► Scripting Language : LATEX
+       ► Programming Language : Python | MATLAB | Verilog HDL | C | HTML
+       ► Simulation Tools : Cadence Virtuoso | COMSOL Multiphysics | PSpice
+       ► Illustration Tools : AutoCAD | Adobe Photoshop
+       ► Data Analysis : Origin | Excel
+       ► Scripting Language : LATEX
   
 - 🔭 I'm enjoying playing Cricket, Badminton and Chess.
   
